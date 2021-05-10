@@ -64,7 +64,7 @@ const FormSearch = () => {
           </select>
 
           <select id="profile">
-            <option value="0">Profile:</option>
+            <option value="0">Students Profile:</option>
             <option value="Quiet">Quiet</option>
             <option value="Communicative">Communicative</option>
             <option value="Music fan">Music fan</option>
