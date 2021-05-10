@@ -1,0 +1,11 @@
+
+.search{
+    background-image: url(images/room1.jpg);
+    width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+  

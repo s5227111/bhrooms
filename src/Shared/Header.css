@@ -1,0 +1,40 @@
+
+.header{
+    width: 100%; 
+    background-color: #fff; 
+    height: 60px; 
+    display: flex;
+  }
+  
+  .header .column1{
+    width: 30%;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    text-shadow: 4px 4px 4px #010342;
+  }
+  
+  .header .column1 a{
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .header .column2{
+    width: 70%;
+    text-align: right;
+    padding-right: 20px;
+  }
+  
+  .header .column2 ul li{
+    display: inline-block;
+    margin-left: 15px;
+    font-weight: bold;
+    color: #000;
+  }
+  
+  .header .column2 ul li a{
+    color: #000;
+  }
+  

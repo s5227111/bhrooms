@@ -1,0 +1,52 @@
+
+  .box{
+    position: relative;
+  }
+  
+  .form{
+    padding: 3%;
+    display: inline-block;
+    width: 80%;
+    border-radius: 10px;
+    max-width: 800px;
+    position: absolute;
+    top: 0%;
+    left: 27%;
+  }
+  
+  .form-opacity{
+    padding: 3%;
+    display: inline-block;
+    background: #fff;
+    opacity: 0.6;
+    height: 8%;
+    width: 80%;
+    border-radius: 10px;
+    max-width: 800px;
+  }
+  
+  .form select{
+    border-radius: 10px;
+    border: 0px;
+    padding: 6px;
+    width: 15%;
+    height: 40px;
+    margin: 5px;
+    font-size: 18px;
+  }
+  
+  .form button{
+    background-color: rgb(221, 125, 46);
+    border-radius: 10px;
+    border: 0px;
+    padding: 6px;
+    width: 15%;
+    height: 8%;
+    margin: 5px;
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  .form button:hover{
+    background-color: black;
+  }

@@ -1,0 +1,33 @@
+
+.search-page{
+  display: flex;
+}
+
+.search-page > div{
+  width: 50%;
+}
+
+.search-page > div:nth-child(2){
+    padding: 38px;
+}
+
+.mapBoard{
+    height: 924px!important;
+}
+
+.search-page > div p{
+   text-align: left;
+   padding-right: 20px;
+}
+
+.search-form{
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .form-opacity{
+    background: #d4d4d4;
+  }
+  
