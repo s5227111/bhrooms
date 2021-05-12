@@ -1,29 +1,32 @@
 [
     {
       "id": "1",
-      "text": " It is a long established fact that a reader will be distracted Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "description": "A FULLY FURNISHED 1st floor (LIFT) studio apartment located in this popular block. Large lounge/bedroom with two large storage cupboards/wardrobes. Kitchen/diner with electric oven/hob, washing machine, and fridge. Modern bathroom with electric shower, WC, and basin. Double glazing. RENT INCLUDES SEASONAL HEATING & CONSTANT HOT WATER. Residents' permit parking. FULLY MANAGED. AVAILABLE 12/07/2021.",
       "latitude": 50.739430,
       "longitude": -1.933440,
       "image": "../images/room1.jpg",
       "price": 400,
-      "priceText": "£400PCM"
+      "priceText": "£400PCM",
+      "facilities": "Bournemouth Station 0.5 miles, convenience store nearby"
     },
     {
       "id": "2",
-      "text": " It is a long established fact that a reader will be distracted Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "description": "Ground Floor Studio Flat close to Westbourne. Studio room, with built in open wardrobe with kitchen which includes fridge/freezer and washing machine. Separate shower room. Gas central heating, double glazing and allocated parking space for one car. EPC Rating: C Available June 2021. Property comes Unfurnished. EPC rating: C.",
       "latitude": 50.739430,
       "longitude": -1.943440,
       "image": "../images/room3.jpg",
       "price": 500,
-      "priceText": "£500PCM"
+      "priceText": "£500PCM",
+      "facilities": "Branksome Station 0.8 miles, also close to supermarket and park"
     },
     {
       "id": "3",
-      "text": " It is a long established fact that a reader will be distracted Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "description": "A five double bedroom house located in the very heart of Winton and within close proximity to Bournemouth University. The property is presented in very good condition and is furnished to a good standard. Large fitted kitchen with a comprehensive range of white goods. Upvc double glazing, gas central heating and a large rear garden. ",
       "latitude": 50.739430,
       "longitude": -1.953440,
       "image": "../images/room2.jpg",
       "price": 600,
-      "priceText": "£600PCM"
+      "priceText": "£600PCM",
+      "facilities": "Great Location, Rear Garden"
     }
 ]

@@ -1,18 +1,11 @@
 import { NavLink } from "react-router-dom";
 import "../Shared/Header.css";
+import Header from '../Shared/Header';
 
 const ContactUs = () => {
     return (
-        <>
-            <header className="header" >
-                <div className="column1"><NavLink exact to="/">BH ROOMS</NavLink></div>
-                <div className="column2">
-                    <ul>
-                        <li><a href="/">Moving to Bournemouth</a></li>
-                        <li><NavLink exact to="/contact-us">Contact us</NavLink></li>
-                    </ul>
-                </div>
-            </header>
+        <div>
+            <Header />
 
             <div style={{ display: 'flex', justifyContent: 'space-between', paddingLeft: 20, paddingRight: 20 }}>
                 <div style={{ display: 'flex', flex: 1 }}>
@@ -20,19 +13,18 @@ const ContactUs = () => {
                 </div>
 
                 <div style={{ display: 'flex', justifyContent: 'center', flexDirection: 'column', flex: 1 }}>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum 
-                        has been the industry's standard dummy text ever since the 1500s, when an unknown printer 
-                        took a galley of type and scrambled it to make a type specimen book.
+                    <p>We are a well known estate agent specialized in helping worldwide students to find a personalised room in the Bournemouth city. 
+                        Our main goal is to make our clients happy, relaxed and well settled to enjoy the best of their studies.
                     </p>
                 </div>
 
                 <div style={{ marginTop: 20, display: 'flex', flex: 1, flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
-                    <h4>Phone: (+44)333 333 33333</h4>
-                    <h4>Email: bhcompany@gmail.com</h4>
-                    <h4>Address: </h4>
+                    <h4>Phone: (+44) 01202 111222</h4>
+                    <h4>Email: info@bhrooms.co.uk</h4>
+                    <h4>Address: 19 Christchurch Rd, Bournemouth BH1 3LH</h4>
                 </div>
             </div>
-        </>
+        </div>
     );
 }
 

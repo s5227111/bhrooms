@@ -13,8 +13,11 @@ function List(props) {
         <div>
           <h3>{item.priceText}</h3>
           <p>
-            {item.text}
+            {item.description}
           </p>
+          <p>
+            {item.facilities}
+            </p>
         </div>
       </div>
     );
